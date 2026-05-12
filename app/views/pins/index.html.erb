@@ -1,0 +1,35 @@
+<div
+  data-controller="map"
+  data-map-latitude-value="41.8781"
+  data-map-longitude-value="-87.6298"
+  data-map-zoom-value="12"
+  data-map-pins-value="<%= @pins.map { |pin|
+    {
+      id: pin.id,
+      slug: pin.slug,
+      lat: pin.latitude.to_f,
+      lng: pin.longitude.to_f,
+      kind: pin.kind,
+      rent_cents: pin.rent_cents,
+      bedrooms: pin.bedrooms,
+      hood: pin.hood
+    }
+  }.to_json %>"
+  class="relative h-screen w-screen overflow-hidden bg-zinc-950"
+>
+  <div id="map" data-map-target="canvas" class="h-full w-full"></div>
+
+  <aside
+    data-map-target="sidebar"
+    data-state="closed"
+    class="
+      absolute inset-y-0 right-0 z-[1000] w-full max-w-md
+      overflow-y-auto border-l border-zinc-800 bg-zinc-950/95 p-6 text-white
+      shadow-2xl transition-transform duration-200
+      data-[state=closed]:translate-x-full data-[state=open]:translate-x-0 md:w-96
+    "
+    aria-hidden="true"
+  >
+    <%= turbo_frame_tag "pin_sidebar", data: { map_target: "sidebarFrame" } %>
+  </aside>
+</div>

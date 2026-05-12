@@ -1,0 +1,53 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  locality: one
+  building: one
+  kind: rent
+  slug: test-pin-one
+  latitude: 9.99
+  longitude: 9.99
+  hood: MyString
+  bedrooms: 1
+  rent_cents: 1
+  listed_rent_cents: 1
+  square_feet: 1
+  move_in_year: 1
+  reported_on: 2026-05-10
+  note: MyText
+  source: MyString
+  rent_controlled: false
+  rent_stabilized: false
+  parking_included: false
+  utilities_included: false
+  broker_fee_cents: 1
+  tags: MyText
+  comments_count: 1
+  flags_count: 1
+
+two:
+  user: two
+  locality: two
+  building: two
+  kind: rent
+  slug: test-pin-two
+  latitude: 9.99
+  longitude: 9.99
+  hood: MyString
+  bedrooms: 1
+  rent_cents: 1
+  listed_rent_cents: 1
+  square_feet: 1
+  move_in_year: 1
+  reported_on: 2026-05-10
+  note: MyText
+  source: MyString
+  rent_controlled: false
+  rent_stabilized: false
+  parking_included: false
+  utilities_included: false
+  broker_fee_cents: 1
+  tags: MyText
+  comments_count: 1
+  flags_count: 1

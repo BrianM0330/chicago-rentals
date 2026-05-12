@@ -1,0 +1,320 @@
+{
+  "localities": [
+    {
+      "name": "Logan Square",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Wicker Park",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "West Loop",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Lakeview",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Hyde Park",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Avondale",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Lincoln Park",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Pilsen",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Uptown",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Edgewater",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Rogers Park",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Bucktown",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "South Loop",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Loop",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Bridgeport",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Albany Park",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Lakeshore East",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Wabash Corridor",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Lake View East",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Rush & Division",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "name": "Gold Coast",
+      "city": "Chicago",
+      "state": "IL"
+    }
+  ],
+  "buildings": [
+    {
+      "display_name": "The Logan",
+      "street": "Milwaukee Ave",
+      "street_number": "2522",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60647",
+      "latitude": 41.9272,
+      "longitude": -87.7051,
+      "locality_name": "Logan Square"
+    },
+    {
+      "display_name": "Lydian",
+      "street": "S Damen Ave",
+      "street_number": "513",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60612",
+      "latitude": 41.8748,
+      "longitude": -87.6766,
+      "locality_name": "West Loop"
+    },
+    {
+      "display_name": "Wicker Park Commons",
+      "street": "Milwaukee Ave",
+      "street_number": "1278",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60622",
+      "latitude": 41.9052,
+      "longitude": -87.6713,
+      "locality_name": "Wicker Park"
+    },
+    {
+      "display_name": "The Belden-Stratford",
+      "street": "N Lincoln Park W",
+      "street_number": "2300",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60614",
+      "latitude": 41.9242,
+      "longitude": -87.6366,
+      "locality_name": "Lincoln Park"
+    },
+    {
+      "display_name": "NEMA Chicago",
+      "street": "S Indiana Ave",
+      "street_number": "1210",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60605",
+      "latitude": 41.8672,
+      "longitude": -87.6231,
+      "locality_name": "South Loop"
+    },
+    {
+      "display_name": "Arrive Lex",
+      "street": "S Indiana Ave",
+      "street_number": "2138",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60616",
+      "latitude": 41.8540,
+      "longitude": -87.6231,
+      "locality_name": "South Loop"
+    },
+    {
+      "display_name": "Sears Tower",
+      "street": "S Wacker Dr",
+      "street_number": "233",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60606",
+      "latitude": 41.8789,
+      "longitude": -87.6359,
+      "locality_name": "Loop"
+    },
+    {
+      "display_name": "Common City Gardens",
+      "street": "West Loop S",
+      "street_number": "1401",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60607",
+      "latitude": 41.8814,
+      "longitude": -87.6626,
+      "locality_name": "West Loop"
+    },
+    {
+      "display_name": "The Draper",
+      "street": "Broadway",
+      "street_number": "5050",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60640",
+      "latitude": 41.9742,
+      "longitude": -87.6591,
+      "locality_name": "Uptown"
+    },
+    {
+      "display_name": "The June",
+      "street": "Clifton Ave",
+      "street_number": "4433",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60640",
+      "latitude": 41.9628,
+      "longitude": -87.6605,
+      "locality_name": "Uptown"
+    },
+    {
+      "display_name": "Water Tower Place",
+      "street": "Michigan Ave",
+      "street_number": "835",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60611",
+      "latitude": 41.8988,
+      "longitude": -87.6231,
+      "locality_name": "Lincoln Park"
+    },
+    {
+      "display_name": "The Tides",
+      "street": "E South Water St",
+      "street_number": "360",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60601",
+      "latitude": 41.8867027447145,
+      "longitude": -87.6180634161893,
+      "locality_name": "Lakeshore East"
+    },
+    {
+      "display_name": "Burnham Park Plaza",
+      "street": "E 9th St",
+      "street_number": "40",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60605",
+      "latitude": 41.8707799865105,
+      "longitude": -87.6264198560717,
+      "locality_name": "Wabash Corridor"
+    },
+    {
+      "display_name": "1400 S Wabash",
+      "street": "S Wabash Ave",
+      "street_number": "1400",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60605",
+      "latitude": 41.8638603399434,
+      "longitude": -87.6262194642871,
+      "locality_name": "Wabash Corridor"
+    },
+    {
+      "display_name": "2424 N Clark",
+      "street": "N Clark St",
+      "street_number": "2424",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60614",
+      "latitude": 41.9262735389354,
+      "longitude": -87.6413691710064,
+      "locality_name": "Lincoln Park"
+    },
+    {
+      "display_name": "505 W Belmont",
+      "street": "W Belmont Ave",
+      "street_number": "505",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60657",
+      "latitude": 41.9397887422208,
+      "longitude": -87.6423567861507,
+      "locality_name": "Lake View East"
+    },
+    {
+      "display_name": "14 W Elm",
+      "street": "W Elm St",
+      "street_number": "14",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60610",
+      "latitude": 41.9033769667419,
+      "longitude": -87.6292521952928,
+      "locality_name": "Rush & Division"
+    },
+    {
+      "display_name": "1220 North State Parkway",
+      "street": "N State Pkwy",
+      "street_number": "1220",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60610",
+      "latitude": 41.9045201234178,
+      "longitude": -87.6290770874643,
+      "locality_name": "Gold Coast"
+    },
+    {
+      "display_name": "443 West Wrightwood",
+      "street": "W Wrightwood Ave",
+      "street_number": "443",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60614",
+      "latitude": 41.9307380255723,
+      "longitude": -87.6403066448577,
+      "locality_name": "Lincoln Park"
+    }
+  ]
+}

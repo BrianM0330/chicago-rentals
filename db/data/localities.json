@@ -1,0 +1,206 @@
+{
+  "localities": [
+    {
+      "name": "Logan Square",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Hip, artsy neighborhood known for the Monument, cocktail bars, and historic boulevards."
+    },
+    {
+      "name": "Wicker Park",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "A hub for music, nightlife, and boutique shopping anchored by the Six Corners intersection."
+    },
+    {
+      "name": "West Loop",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Former industrial packing district turned culinary capital with 'Restaurant Row' on Randolph Street."
+    },
+    {
+      "name": "Lakeview",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Lively lakeside area home to Wrigley Field, Boystown, and extensive park space."
+    },
+    {
+      "name": "Hyde Park",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Historic south side home to the University of Chicago and the Museum of Science and Industry."
+    },
+    {
+      "name": "Avondale",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "A low-key residential pocket often cited as one of the 'coolest' neighborhoods in the world."
+    },
+    {
+      "name": "Lincoln Park",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Upscale area with its namesake park, zoo, and luxury brownstones."
+    },
+    {
+      "name": "Pilsen",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "A vibrant center for Mexican culture, murals, and the National Museum of Mexican Art."
+    },
+    {
+      "name": "Uptown",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Entertainment district famous for the Aragon Ballroom, Riviera Theatre, and jazz history."
+    },
+    {
+      "name": "Edgewater",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Lakeside residential neighborhood known for high-rises and the Andersonville district nearby."
+    },
+    {
+      "name": "Rogers Park",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Diverse lakeside community on the far north side with beach access and artistic roots."
+    },
+    {
+      "name": "Bucktown",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Chic residential area adjacent to Wicker Park known for high-end dining and converted lofts."
+    },
+    {
+      "name": "South Loop",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Fast-growing high-rise district close to Grant Park and Museum Campus."
+    },
+    {
+      "name": "Bridgeport",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Working-class history meets an emerging arts scene; home to the White Sox."
+    },
+    {
+      "name": "Albany Park",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "One of the most ethnically diverse neighborhoods in the US with incredible food options."
+    }
+  ],
+  "buildings": [
+    {
+      "display_name": "The Logan",
+      "street": "Milwaukee Ave",
+      "street_number": "2522",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60647",
+      "latitude": 41.9272,
+      "longitude": -87.7051,
+      "locality_name": "Logan Square"
+    },
+    {
+      "display_name": "Lydian",
+      "street": "S Damen Ave",
+      "street_number": "513",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60612",
+      "latitude": 41.8748,
+      "longitude": -87.6766,
+      "locality_name": "West Loop"
+    },
+    {
+      "display_name": "Wicker Park Commons",
+      "street": "Milwaukee Ave",
+      "street_number": "1278",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60622",
+      "latitude": 41.9052,
+      "longitude": -87.6713,
+      "locality_name": "Wicker Park"
+    },
+    {
+      "display_name": "The Belden-Stratford",
+      "street": "N Lincoln Park W",
+      "street_number": "2300",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60614",
+      "latitude": 41.9242,
+      "longitude": -87.6366,
+      "locality_name": "Lincoln Park"
+    },
+    {
+      "display_name": "NEMA Chicago",
+      "street": "S Indiana Ave",
+      "street_number": "1210",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60605",
+      "latitude": 41.8672,
+      "longitude": -87.6231,
+      "locality_name": "South Loop"
+    },
+    {
+      "display_name": "Arrive Lex",
+      "street": "S Indiana Ave",
+      "street_number": "2138",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60616",
+      "latitude": 41.8540,
+      "longitude": -87.6231,
+      "locality_name": "South Loop"
+    },
+    {
+      "display_name": "Common City Gardens",
+      "street": "West Loop S",
+      "street_number": "1401",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60607",
+      "latitude": 41.8814,
+      "longitude": -87.6626,
+      "locality_name": "West Loop"
+    },
+    {
+      "display_name": "The Draper",
+      "street": "Broadway",
+      "street_number": "5050",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60640",
+      "latitude": 41.9742,
+      "longitude": -87.6591,
+      "locality_name": "Uptown"
+    },
+    {
+      "display_name": "The June",
+      "street": "Clifton Ave",
+      "street_number": "4433",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60640",
+      "latitude": 41.9628,
+      "longitude": -87.6605,
+      "locality_name": "Uptown"
+    },
+    {
+      "display_name": "Water Tower Place",
+      "street": "Michigan Ave",
+      "street_number": "835",
+      "city": "Chicago",
+      "state": "IL",
+      "postal_code": "60611",
+      "latitude": 41.8988,
+      "longitude": -87.6231,
+      "locality_name": "Lincoln Park"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Logan Square
+  slug: logan-square-chicago
+  city: Chicago
+  state: IL
+
+two:
+  name: Lake View
+  slug: lake-view-chicago
+  city: Chicago
+  state: IL

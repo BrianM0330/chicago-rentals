@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body {
+    @apply m-0 min-h-full bg-[#0a0a14];
+  }
+
+  body {
+    @apply overflow-hidden;
+  }
+}
+
+@layer components {
+  .leaflet-container {
+    @apply bg-[#0a0a14] font-sans;
+  }
+
+  .leaflet-container .leaflet-control-attribution {
+    @apply !rounded-tl-md !bg-[#0a0a14]/80 !px-2 !py-0.5 !text-[10px] !text-zinc-500 backdrop-blur-sm;
+  }
+
+  .leaflet-container .leaflet-control-attribution a {
+    @apply !text-zinc-400;
+  }
+
+  .leaflet-control-zoom {
+    @apply !overflow-hidden !rounded-[10px] !border !border-white/10;
+  }
+
+  .leaflet-control-zoom a {
+    @apply !bg-[#0a0a14]/85 !text-zinc-200 backdrop-blur-sm;
+    border-color: rgb(255 255 255 / 0.06) !important;
+  }
+
+  .leaflet-control-zoom a:hover,
+  .leaflet-control-zoom a:focus {
+    @apply !bg-zinc-900/95 !text-zinc-50;
+  }
+
+  .leaflet-touch .leaflet-bar {
+    @apply !shadow-none;
+  }
+}
